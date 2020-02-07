@@ -1,11 +1,11 @@
 # Site settings
-author: heyserenadinh Dinh
-title: 
+author: Serena Dinh 
+title: Serena Dinh 
 header-img: img/home-bg.png
 email: heyserenadinh@gmail.com
-copyright_name: heyserenadinh Dinh
+copyright_name: Serena Dinh 
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My journey to Software Engineering
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  serenadinh
